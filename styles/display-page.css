@@ -1,0 +1,39 @@
+main {
+    width: 800px;
+    margin: auto;
+    font-size: 0;
+}
+
+.half {
+    height: 200px;
+    width: 50%;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.third {
+    height: 300px;
+    width: 33.33%;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.grey {
+    background-color: gray;
+}
+
+.black {
+    background-color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
